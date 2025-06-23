@@ -1,6 +1,7 @@
 # call_analyzer_LASTTRY.py
 # (if this breaks just use v2)
 
+import utils.session
 import streamlit as st
 import os
 from datetime import datetime
